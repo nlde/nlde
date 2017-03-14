@@ -1,2 +1,2 @@
 # nlde
-An Adaptive Web Query Processing Engine over RDF Data via Triple Pattern Fragments
+An Adaptive SPARQL Query Engine over RDF Data via Triple Pattern Fragments
